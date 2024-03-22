@@ -1,0 +1,14 @@
+{
+  "name": "td1334/cliform",
+  "description": "Klasse um per CLI Fragen zu stellen und Antworten entgegenzunehmen. Defaultwerte möglich.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "root",
+      "email": "td1334@scaip.ch"
+    }
+  ],
+  "require": {
+  }
+}
