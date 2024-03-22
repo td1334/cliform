@@ -6,9 +6,16 @@
   "authors": [
     {
       "name": "root",
-      "email": "td1334@scaip.de"
+      "email": "td1334@scaip.de",
+      "role": "",
+      "homepage": ""
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "td1334\\cli_form\\": "src/"
+    }
+  },
   "require": {
   }
 }
