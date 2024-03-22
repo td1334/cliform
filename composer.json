@@ -1,6 +1,6 @@
 {
   "name": "td1334/cliform",
-  "description": "Klasse um per CLI Fragen zu stellen und Antworten entgegenzunehmen. Defaultwerte möglich.",
+  "description": "Klasse um per CLI Fragen zu stellen und Antworten entgegenzunehmen. Default Werte möglich.",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
