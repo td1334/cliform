@@ -9,12 +9,12 @@ class ComposerStaticInit4367f8828ded073a8f9f917135db9bb3
     public static $prefixLengthsPsr4 = array (
         't' => 
         array (
-            'td1334\\cli_form\\' => 16,
+            'td1334\\cliform\\' => 15,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'td1334\\cli_form\\' => 
+        'td1334\\cliform\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

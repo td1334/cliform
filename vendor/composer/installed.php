@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'td1334/cliform',
+        'name' => 'td1334/cli_form',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '72564ccff7e4ecc883ebac2d980a36dc4098b4c6',
+        'reference' => '790490e6d047b9d6a92eb808b4e4a8adb1fedfa8',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'td1334/cliform' => array(
+        'td1334/cli_form' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '72564ccff7e4ecc883ebac2d980a36dc4098b4c6',
+            'reference' => '790490e6d047b9d6a92eb808b4e4a8adb1fedfa8',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
