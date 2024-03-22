@@ -6,4 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'td1334\\cli_form\\' => array($baseDir . '/src'),
 );

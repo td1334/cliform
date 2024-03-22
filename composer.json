@@ -3,19 +3,17 @@
   "description": "Klasse um per CLI Fragen zu stellen und Antworten entgegenzunehmen. Default Werte möglich.",
   "minimum-stability": "stable",
   "license": "proprietary",
-  "authors": [
-    {
-      "name": "root",
-      "email": "td1334@scaip.de",
-      "role": "",
-      "homepage": ""
-    }
-  ],
   "autoload": {
     "psr-4": {
       "td1334\\cli_form\\": "src/"
     }
   },
+  "authors": [
+    {
+      "name": "root",
+      "email": "td1334@scaip.de"
+    }
+  ],
   "require": {
   }
 }
