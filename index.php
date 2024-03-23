@@ -18,4 +18,4 @@ $form->add("vorname", new CliFormQuestion("Vorname", "yes", "yes, no, maybe", fa
 $form->add("strasse", new CliFormQuestion("Strasse"));
 $form->run();
 print_r($form->getValue("strasse"));
-print_r($form); 
+print_r($form);
