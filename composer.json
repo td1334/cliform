@@ -1,6 +1,8 @@
 {
   "name": "td1334/cli_form",
-  "description": "Klasse um per CLI Fragen zu stellen und Antworten entgegenzunehmen. Default Werte möglich..",
+  "description": "CLI Question(s) handling",
+  "version": "0.0.1",
+  "type": "library",
   "minimum-stability": "stable",
   "license": "proprietary",
   "autoload": {
@@ -10,11 +12,13 @@
   },
   "authors": [
     {
-      "name": "root",
-      "email": "td1334@scaip.de"
+      "name": "Peter Alexander",
+      "email": "td1334@scaip.de",
+      "role": "Developer"
     }
   ],
   "require": {
+    "php": ">=7.2.5",
     "ext-mbstring": "*"
   }
 }
