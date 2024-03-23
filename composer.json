@@ -1,5 +1,5 @@
 {
-  "name": "td1334/cli_form",
+  "name": "td1334/cliform",
   "description": "CLI Question(s) handling",
   "type": "library",
   "minimum-stability": "stable",
